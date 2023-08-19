@@ -6,8 +6,8 @@ Xiongchao Chen, Bo Zhou, Huidong Xie, Xueqi Guo, Qiong Liu, Albert J. Sinusas, C
 
 [[Paper Link](https://arxiv.org/abs/2305.10326)]
 
-![image](IMAGE/Fig1.png)
-![image](IMAGE/Fig2.png)
+![image](IMAGES/Fig1.png)
+![image](IMAGES/Fig2.png)
 
 This repository contains the PyTorch implementation of the CDI-Net for Simultaneous Denoising, Limited-angle Reconstruction, and Attenuation Correction of Cardiac SPECT.
 
