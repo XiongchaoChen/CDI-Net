@@ -1,0 +1,17 @@
+python train.py \
+--experiment_name 'train' \
+--model_type 'model_cnn' \
+--data_root '../../Data/Processed_7_2_AmapReconProj_demo/' \
+--norm 'BN' \
+--net_filter 32 \
+--n_denselayer 6 \
+--growth_rate 32 \
+--lr_G1 1e-3 \
+--lr_G2 1e-4 \
+--step_size 1 \
+--gamma 0.99 \
+--n_epochs 400 \
+--batch_size 1 \
+--eval_epochs 5 \
+--snapshot_epochs 5 \
+--gpu_ids 2
