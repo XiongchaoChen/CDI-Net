@@ -1,6 +1,6 @@
 # Cross-Domain Iterative Network (CDI-Net) for Simultaneous Denoising, Limited-angle Reconstruction, and Attenuation Correction of Cardiac SPECT
 
-**_(MICCAI 2023 Workshop, MLMI2023)_**
+**_(MICCAI 2023 Workshop, MLMI 2023)_**
 
 Xiongchao Chen, Bo Zhou, Huidong Xie, Xueqi Guo, Qiong Liu, Albert J. Sinusas, Chi Liu
 
